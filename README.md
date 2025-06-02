@@ -1,4 +1,4 @@
-# CropProtectPlugin 农作物保护插件  
+# CropProtect 农作物保护插件  
 ## 保护你的农作物免受踩踏  
 一个非常**简单**的Minecraft服务端插件  
 **与被你踩坏的农作物告别吧！！！**  
