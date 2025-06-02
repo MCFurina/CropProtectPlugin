@@ -1,0 +1,8 @@
+name: CropProtect
+version: '1.0'
+main: org.mcfurina.cropprotect.Cropprotect
+api-version: '1.21'
+load: STARTUP
+authors: [ MCFurina ]
+description: 保护你的农作物免受踩踏
+folia-supported: true
